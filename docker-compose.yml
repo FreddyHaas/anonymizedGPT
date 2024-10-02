@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  chatbot:
+    build:
+      context: ./chatbot
+      dockerfile: dockerfile
+    ports:
+      - "3000:3000"
+  anonymization_service:
+    build:
+      context: ./anonymization_service
+      dockerfile: dockerfile
+    ports:
+      - "8000:8000"
