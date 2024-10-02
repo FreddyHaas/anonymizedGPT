@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/anonymizedGPT.iml" filepath="$PROJECT_DIR$/.idea/anonymizedGPT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/anonymized-backend.iml" filepath="$PROJECT_DIR$/.idea/anonymized-backend.iml" />
     </modules>
   </component>
 </project>
