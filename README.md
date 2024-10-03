@@ -12,6 +12,8 @@
 
 ## Features
 
+![demo](https://github.com/user-attachments/assets/13e4a3a7-df18-4c00-8479-44610c477535)
+
 Detects and <strong>anonymizes 10 entities</strong> including person names, email adresses and phone numbers
 
 Allows <strong>custom replacements</strong>, i.e. replacing entities that were not automatically detected
