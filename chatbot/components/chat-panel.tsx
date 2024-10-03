@@ -39,7 +39,7 @@ export function ChatPanel({
   const { entities } = useEntities()
   const [anonymizedMessageDialog, setAnonymizedMessageDialog] = useState('')
 
-  const examplePrompt = `Please craft a response to this customer email:
+  const examplePrompt = `Please shorten this email:
       Dear Support Team,
       I hope you're doing well. I recently placed an order (#98765) and received it yesterday at my address: 456 Maple Street, San Francisco. Unfortunately, one of the items (Product Code: A1234) arrived damaged.
       Can you please advise on how I can return the item or get a replacement? I’ve attached a few pictures of the damage. Feel free to reach me at jane.smith@email.com or call me at 415-987-6543 if you need more information.
@@ -113,7 +113,7 @@ export function ChatPanel({
               onClick={() => submitMessage(examplePrompt)}
             >
               <div className="text-md font-semibold pb-2">
-                Please craft a response to this customer email
+                Please shorten this email
               </div>
               <div className="text-md text-zinc-600">
                 Dear Support Team,
