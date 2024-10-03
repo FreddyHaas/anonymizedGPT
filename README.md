@@ -26,7 +26,7 @@ Let's you <strong>preview your anonymization</strong> before actually sending th
 
 1. Copy the [`.env.example`](./chatbot/.env.example) in chatbot driectory, rename it to .env and **add your OpenAI Key**
 
-2. Make sure you have [docker](https://www.docker.com/) installed. Type:
+2. Make sure you have [Docker](https://www.docker.com/products/docker-desktop/) installed and running. Type in the root directory:
 
 ```bash
 docker-compose up
