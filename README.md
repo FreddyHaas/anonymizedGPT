@@ -12,13 +12,13 @@
 
 ## Features
 
-Detects and <strong>anonymizes 10 entities</strong> including person names, email adresses, phone numbers
+Detects and <strong>anonymizes 10 entities</strong> including person names, email adresses and phone numbers
 
 Allows <strong>custom replacements</strong>, i.e. replacing entities that were not automatically detected
 
 Offers <strong>custom allow list</strong>, i.e. allowing certain phrases that would otherwise be automatically replaced
 
-Let's you <strong>preview your anonymization</strong> before sending it
+Let's you <strong>preview your anonymization</strong> before actually sending the prompt
 
 ## Get started
 
