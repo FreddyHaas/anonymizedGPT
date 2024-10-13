@@ -26,7 +26,7 @@ Let's you <strong>preview your anonymization</strong> before actually sending th
 
 ### Using Docker
 
-1. Copy the [`.env.example`](./chatbot/.env.example) in chatbot driectory, rename it to .env and **add your OpenAI Key**
+1. Copy the [`.env.example`](./chatbot/.env.example) in the chatbot directory, rename it to .env and **add your OpenAI Key**
 
 2. Make sure you have [Docker](https://www.docker.com/products/docker-desktop/) installed and running. Type in the root directory:
 
@@ -38,7 +38,7 @@ Your chatbot app should now be running on [localhost:3000](http://localhost:3000
 
 ### Without Docker
 
-1. Copy the [`.env.example`](./chatbot/.env.example) in chatbot directory, rename it to .env and **add your OpenAI Key**
+1. Copy the [`.env.example`](./chatbot/.env.example) in the chatbot directory, rename it to .env and **add your OpenAI Key**
 
 2. Start the chatbot. In the [chatbot directory](./chatbot/) type:
 
@@ -63,11 +63,11 @@ Your chatbot app should now be running on [localhost:3000](http://localhost:3000
 
 ## Feedback
 
-If you want to provide feedback, please open a new discussion or send me an email. 
+If you want to provide feedback, please open a new discussion or contact me on LinkedIn. 
 
 GitHub: <a href="https://github.com/FreddyHaas/anonymizedGPT/discussions">Discussions</a>
 
-Email: cologneapps@gmail.com
+[LinkedIn](https://www.linkedin.com/in/frederikhaas/)
 
 ### Final note 
 
